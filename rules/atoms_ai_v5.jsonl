@@ -1,0 +1,500 @@
+{"id": "NKHN_0_0007", "atoms": [{"t": "planet_in_nak", "p": "Venus", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0008", "atoms": [{"t": "planet_in_nak", "p": "Saturn", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0012", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0013", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0014", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0026", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0027", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0028", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0039", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0040", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0041", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0051", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0052", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0053", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0065", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0066", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0067", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0072", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0081", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0082", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0092", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0093", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0105", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0106", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0116", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0117", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0128", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0129", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0138", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0139", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0149", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0150", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0159", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0160", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0169", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0170", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0171", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0179", "atoms": [{"t": "planet_in_nak", "p": "Rahu", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0181", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0182", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0192", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0193", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0197", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0198", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0199", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0209", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0210", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0219", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0220", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0228", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_0_0229", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0014", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0015", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0020", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0021", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0022", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0024", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0025", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0028", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0029", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0030", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0031", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0034", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0035", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0036", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0037", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0040", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0041", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0042", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0043", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0044", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0045", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0046", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0050", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0051", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0052", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0053", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0055", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0056", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0057", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0058", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0059", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0060", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0061", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0062", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0063", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0064", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0065", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0066", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0070", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0071", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0072", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0074", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0075", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0076", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0077", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0078", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0081", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0082", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0083", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0085", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0086", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0087", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0088", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0089", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0090", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0091", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0092", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0096", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0097", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0099", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0100", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0101", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0102", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0103", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0104", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0105", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0106", "atoms": [{"t": "planet_in_nak", "p": "Venus", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKHN_1_0172", "atoms": [{"t": "lagna_sign", "sign": ["Cancer", "Leo"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0033", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0035", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0036", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0038", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0040", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0042", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0043", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0044", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0046", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0047", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0048", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0050", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0051", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0055", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0058", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0059", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0062", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0063", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0066", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0071", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0074", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0075", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0077", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0078", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0080", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0082", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0085", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0087", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0088", "atoms": [{"t": "planet_in_nak", "p": "Sun", "nak": ["Anuradha"]}, {"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0090", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0097", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0099", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0104", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_0_0106", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0004", "atoms": [{"t": "planet_in_nak", "p": "Mars", "nak": ["Ashwini", "Anuradha", "Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0006", "atoms": [{"t": "planet_in_nak", "p": "Venus", "nak": ["Ashwini", "Krittika", "Pushya", "Swati", "Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0009", "atoms": [{"t": "conj", "p": "Sun", "q": "Moon"}, {"t": "planet_in_nak", "p": "Sun", "nak": ["Anuradha"]}, {"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0010", "atoms": [{"t": "conj", "p": "Sun", "q": "Moon"}, {"t": "planet_in_nak", "p": "Sun", "nak": ["Anuradha"]}, {"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0023", "atoms": [{"t": "lagna_sign", "sign": ["Pisces"]}, {"t": "planet_in_nak", "p": "Saturn", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0024", "atoms": [{"t": "lagna_sign", "sign": ["Pisces"]}, {"t": "planet_in_nak", "p": "Jupiter", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0025", "atoms": [{"t": "lagna_sign", "sign": ["Pisces"]}, {"t": "planet_in_nak", "p": "Mars", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0054", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0055", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}, {"t": "planet_in_nak", "p": "Jupiter", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0059", "atoms": [{"t": "planet_in_nak", "p": "Mercury", "nak": ["Ardra"]}, {"t": "planet_in_nak", "p": "Venus", "nak": ["Ardra"]}, {"t": "planet_in_nak", "p": "Rahu", "nak": ["Ardra", "Swati", "Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0060", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0062", "atoms": [{"t": "planet_in_nak", "p": "Mars", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_1_0161", "atoms": [{"t": "dignity", "p": "Moon", "s": "debilitated"}, {"t": "planet_in_house", "p": "Moon", "h": [6]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0134", "atoms": [{"t": "planet_in_house", "p": "Moon", "h": [1, 7]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0333", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0334", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0336", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0337", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0338", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0339", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0340", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0341", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0342", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0343", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0344", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0345", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0346", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0347", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0348", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0349", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0350", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0351", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0352", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0353", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0354", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0355", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0357", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0358", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0359", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0361", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0362", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0363", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0364", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0365", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0366", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0367", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0368", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0369", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0370", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0371", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0372", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0374", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0375", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0376", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0377", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0379", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0380", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0384", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0385", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0387", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0388", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0389", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_2_0390", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0001", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0002", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0003", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0004", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0005", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0006", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0007", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0008", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0009", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0010", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0011", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0012", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0013", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0014", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0015", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0016", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0017", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0018", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0019", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0020", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0021", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0022", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0023", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0024", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0028", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0029", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0030", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0033", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0034", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0045", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini", "Hasta", "Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0047", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu", "Vishakha", "Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0052", "atoms": [{"t": "planet_in_nak", "p": "Mars", "nak": ["Mrigashira", "Chitra", "Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0058", "atoms": [{"t": "planet_in_nak", "p": "Mercury", "nak": ["Ashlesha", "Jyeshtha", "Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0061", "atoms": [{"t": "planet_in_nak", "p": "Jupiter", "nak": ["Mrigashira", "Chitra", "Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0080", "atoms": [{"t": "planet_in_nak", "p": "Jupiter", "nak": ["Ardra", "Swati", "Shatabhisha"]}, {"t": "planet_aspected_by", "p": "Jupiter", "by": ["Rahu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_3_0087", "atoms": [{"t": "dignity", "p": "Mars", "s": "exalted"}, {"t": "planet_in_house", "p": "Mars", "h": [7]}, {"t": "planet_in_nak", "p": "Mars", "nak": ["Rohini", "Hasta", "Shravana"]}, {"t": "dignity", "p": "Jupiter", "s": "exalted"}, {"t": "planet_aspected_by", "p": "Mars", "by": ["Jupiter"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0011", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0016", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0019", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0022", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0025", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0028", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0031", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0034", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0037", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0040", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0042", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0045", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0048", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0051", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0054", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0057", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0062", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0065", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0068", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0071", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0074", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0077", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0080", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0083", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0117", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0119", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0121", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0123", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0125", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0127", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0129", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0131", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0133", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0135", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0137", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0139", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0141", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0143", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0145", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0147", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0149", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0151", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0155", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0157", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0159", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0161", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0163", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0165", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0167", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKRK_4_0169", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0001", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0002", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashwini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0010", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0011", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0012", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0013", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0014", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0016", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Bharani"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0021", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0022", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0023", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0024", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0025", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0026", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Krittika"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0032", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0033", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0034", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0035", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0036", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0037", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Rohini"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0042", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0043", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0044", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0045", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0046", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0047", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0048", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0049", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mrigashira"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0054", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0055", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0056", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0057", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0058", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0059", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0060", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0061", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ardra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0066", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0067", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0068", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0069", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0070", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0071", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0072", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Punarvasu"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0077", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0078", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0079", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0080", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0081", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0082", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Pushya"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0087", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0088", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0089", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0090", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0091", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0092", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0093", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Ashlesha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0098", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0099", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0100", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0101", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0102", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0103", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0104", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0105", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0106", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0107", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0108", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0109", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0110", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Magha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0115", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0116", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0117", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0118", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0119", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0120", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0125", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0126", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0127", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0128", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0129", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0130", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0131", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0132", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Phalguni"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0137", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0138", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0139", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0140", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0141", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0142", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0143", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0144", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Hasta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0149", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0150", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0152", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0153", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0154", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0155", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0156", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0157", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Chitra"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0162", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0163", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0164", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0165", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0166", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0167", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0168", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0169", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0170", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Swati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0175", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0176", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0177", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0178", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0179", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0180", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0181", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0182", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0183", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Vishakha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0188", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0189", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0190", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0191", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0192", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0193", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0194", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0195", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Anuradha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0200", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0201", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0202", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0203", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0204", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0205", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0206", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0207", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Jyeshtha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0212", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0213", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0214", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0215", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0216", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0217", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0218", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0219", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Mula"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0224", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0225", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0226", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0227", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0228", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0229", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0234", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0235", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0236", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0237", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0239", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0240", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0241", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Ashadha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0246", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0247", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0248", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0249", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0250", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0251", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shravana"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0256", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0257", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0258", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0259", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0260", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0261", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0262", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Dhanishta"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0267", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0268", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0269", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0270", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0271", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0272", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0273", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0274", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Shatabhisha"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0279", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0280", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0281", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0282", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0283", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0284", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0285", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Purva Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0290", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0291", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0292", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0293", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0294", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0295", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0296", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0297", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Uttara Bhadrapada"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0302", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0303", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0304", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0305", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0306", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0307", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0308", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
+{"id": "NKSB_0_0309", "atoms": [{"t": "planet_in_nak", "p": "Moon", "nak": ["Revati"]}], "complete": true, "missing": "", "origin": "ai_v2_single_pass"}
