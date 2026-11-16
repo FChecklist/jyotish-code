@@ -1,0 +1,105 @@
+{"id": "BK20_0174", "atoms": [{"t": "planet_in_group", "p": "Jupiter", "g": "kendra"}, {"t": "planet_in_group", "p": "Venus", "g": "kendra"}, {"t": "not", "of": {"t": "group_in_house", "g": "malefic", "h": [1, 5, 8, 9]}}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK20_0176", "atoms": [{"t": "not", "of": {"t": "group_in_house", "g": "malefic", "h": [1, 4, 5, 7, 8, 9, 10]}}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK26_0159", "atoms": [{"t": "group_in_house", "g": "malefic", "h": [2]}, {"t": "group_in_house", "g": "malefic", "h": [7]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK27_0013", "atoms": [{"t": "planet_in_house", "p": "Jupiter", "h": [10]}, {"t": "any", "of": [{"t": "planet_in_house", "p": "Moon", "h": [4]}, {"t": "planet_in_house", "p": "Saturn", "h": [1, 4, 10]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK27_0792", "atoms": [{"t": "planet_in_house", "p": "Ketu", "h": [5]}, {"t": "any", "of": [{"t": "planet_in_house", "p": "Moon", "h": [3, 4]}, {"t": "planet_in_house", "p": "Mars", "h": [3, 4]}]}, {"t": "planet_in_house", "p": "Saturn", "h": [5, 9]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK27_1041", "atoms": [{"t": "planet_in_house", "p": "Jupiter", "h": [2]}, {"t": "planet_in_house", "p": "Moon", "h": [2]}, {"t": "planet_in_house", "p": "Venus", "h": [2]}, {"t": "strength", "p": "Mars", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK28_0125", "atoms": [{"t": "planet_in_sign", "p": "Saturn", "sign": "Aries"}, {"t": "planet_in_house", "p": "Saturn", "h": [1]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK28_0198", "atoms": [{"t": "planet_in_sign", "p": "Jupiter", "sign": "Leo"}, {"t": "planet_in_house", "p": "Jupiter", "h": [5]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK30_0355", "atoms": [{"t": "lagna_sign", "sign": ["Aries"]}, {"t": "planet_in_house", "p": "Sun", "h": [1]}, {"t": "planet_in_house", "p": "Moon", "h": [1]}, {"t": "planet_in_house", "p": "Venus", "h": [1]}, {"t": "planet_in_house", "p": "Saturn", "h": [1]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "BK9_0519", "atoms": [{"t": "not", "of": {"t": "group_in_house", "g": "benefic", "h": [1, 4, 5, 7, 9, 10]}}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-013", "atoms": [{"t": "lagna_sign", "sign": ["Aries"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-014", "atoms": [{"t": "lagna_sign", "sign": ["Taurus"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-016", "atoms": [{"t": "lagna_sign", "sign": ["Gemini"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-017", "atoms": [{"t": "lagna_sign", "sign": ["Cancer"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-019", "atoms": [{"t": "lagna_sign", "sign": ["Virgo"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-020", "atoms": [{"t": "lagna_sign", "sign": ["Libra"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-021", "atoms": [{"t": "lagna_sign", "sign": ["Scorpio"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-023", "atoms": [{"t": "lagna_sign", "sign": ["Capricorn"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV03-P2-025", "atoms": [{"t": "lagna_sign", "sign": ["Pisces"]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV05-P2-107", "atoms": [{"t": "retro", "p": "Mars"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV06-P2-073", "atoms": [{"t": "retro", "p": "Venus"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV06-P2-104", "atoms": [{"t": "group_in_house", "g": "malefic", "h": [9]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV07-P2-112", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Taurus"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-031", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Sun", "sign": "Libra"}, {"t": "planet_in_sign", "p": "Sun", "sign": "Taurus"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-035", "atoms": [{"t": "strength", "p": "Sun", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-053", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Aries"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-054", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Taurus"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-056", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Capricorn"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-057", "atoms": [{"t": "planet_in_sign", "p": "Mercury", "sign": "Virgo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-059", "atoms": [{"t": "planet_in_sign", "p": "Venus", "sign": "Pisces"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-061", "atoms": [{"t": "planet_in_sign", "p": "Rahu", "sign": "Gemini"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-066", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Libra"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-082", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-084", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Gemini"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-085", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Sagittarius"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-088", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Capricorn"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-100", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Pisces"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-104", "atoms": [{"t": "planet_in_sign", "p": "Sun", "sign": "Aquarius"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-105", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Leo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-107", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Gemini"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-109", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Taurus"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-111", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Virgo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-117", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-125", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Sagittarius"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-126", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Taurus"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-128", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Aquarius"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-131", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Pisces"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-134", "atoms": [{"t": "planet_in_sign", "p": "Mars", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-138", "atoms": [{"t": "planet_in_sign", "p": "Mercury", "sign": "Pisces"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV09-P2-143", "atoms": [{"t": "strength", "p": "Mercury", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV10-P2-046", "atoms": [{"t": "strength", "p": "Mars", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV13-P2-061", "atoms": [{"t": "strength", "p": "Mars", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV13-P2-063", "atoms": [{"t": "strength", "p": "Mars", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV13-P2-066", "atoms": [{"t": "strength", "p": "Mars", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV13-P2-110", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Venus", "sign": "Taurus"}, {"t": "planet_in_sign", "p": "Venus", "sign": "Libra"}]}, {"t": "any", "of": [{"t": "planet_in_house", "p": "Venus", "h": [7]}, {"t": "aspects_house", "p": "Venus", "h": [7]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV14-P2-090", "atoms": [{"t": "dignity", "p": "Mercury", "s": "exalted"}, {"t": "dignity", "p": "Venus", "s": "debilitated"}, {"t": "planet_in_sign", "p": "Sun", "sign": "Leo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV14-P2-097", "atoms": [{"t": "planet_in_sign", "p": "Saturn", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV16-P2-117", "atoms": [{"t": "strength", "p": "Saturn", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV17-P2-009", "atoms": [{"t": "strength", "p": "Mars", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV19-P2-010", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Sun", "sign": "Taurus"}, {"t": "planet_in_sign", "p": "Sun", "sign": "Libra"}, {"t": "conj", "p": "Sun", "q": "Venus"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV19-P2-011", "atoms": [{"t": "strength", "p": "Sun", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV19-P2-012", "atoms": [{"t": "strength", "p": "Sun", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV19-P2-037", "atoms": [{"t": "planet_in_house", "p": "Sun", "h": [10]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV20-P2-038", "atoms": [{"t": "strength", "p": "Sun", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV22-P2-011", "atoms": [{"t": "strength", "p": "Venus", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV22-P2-012", "atoms": [{"t": "strength", "p": "Venus", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV22-P2-016", "atoms": [{"t": "strength", "p": "Venus", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV22-P2-036", "atoms": [{"t": "strength", "p": "Venus", "s": "weak"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV22-P2-055", "atoms": [{"t": "strength", "p": "Sun", "s": "strong"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV24-P2-107", "atoms": [{"t": "aspects_planet", "p": "Mars", "q": "Jupiter"}, {"t": "dignity", "p": "Jupiter", "s": "debilitated"}, {"t": "aspects_house", "p": "Mars", "h": [7]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV26-P2-066", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Scorpio"}, {"t": "planet_in_house", "p": "Moon", "h": [3]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV26-P2-095", "atoms": [{"t": "planet_in_sign", "p": "Mercury", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV26-P2-100", "atoms": [{"t": "planet_in_sign", "p": "Jupiter", "sign": "Cancer"}, {"t": "planet_in_house", "p": "Jupiter", "h": [7]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV26-P2-101", "atoms": [{"t": "planet_in_sign", "p": "Jupiter", "sign": "Cancer"}, {"t": "planet_in_house", "p": "Jupiter", "h": [8, 12]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-001", "atoms": [{"t": "planet_in_sign", "p": "Venus", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-008", "atoms": [{"t": "planet_in_sign", "p": "Venus", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-021", "atoms": [{"t": "planet_in_sign", "p": "Saturn", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-028", "atoms": [{"t": "planet_in_sign", "p": "Rahu", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-029", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Rahu", "sign": "Cancer"}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Cancer"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-039", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Cancer"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV27-P2-080", "atoms": [{"t": "planet_in_sign", "p": "Moon", "sign": "Taurus"}, {"t": "planet_in_house", "p": "Moon", "h": [4]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV29-P2-018", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Mars", "sign": "Libra"}, {"t": "planet_in_house", "p": "Mars", "h": [7]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV29-P2-020", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Mercury", "sign": "Libra"}, {"t": "planet_in_house", "p": "Mercury", "h": [7]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV29-P2-021", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Jupiter", "sign": "Libra"}, {"t": "planet_in_house", "p": "Jupiter", "h": [7]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV29-P2-023", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Venus", "sign": "Libra"}, {"t": "planet_in_house", "p": "Venus", "h": [7]}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV30-P2-004", "atoms": [{"t": "any", "of": [{"t": "dasha", "p": "Rahu", "level": "maha"}, {"t": "dasha", "p": "Rahu", "level": "antar"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV31-P2-109", "atoms": [{"t": "planet_in_sign", "p": "Saturn", "sign": "Taurus"}, {"t": "planet_in_sign", "p": "Moon", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV31-P2-114", "atoms": [{"t": "planet_in_sign", "p": "Mercury", "sign": "Virgo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV31-P2-118", "atoms": [{"t": "planet_in_sign", "p": "Saturn", "sign": "Virgo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV32-P2-103", "atoms": [{"t": "planet_in_house", "p": "Ketu", "h": [6]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV33-P2-024", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Leo"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV33-P2-027", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV33-P2-028", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Sagittarius"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV33-P2-045", "atoms": [{"t": "planet_in_sign", "p": "Venus", "sign": "Pisces"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-006", "atoms": [{"t": "any", "of": [{"t": "planet_in_house", "p": "Ketu", "h": [1]}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Aries"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-008", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Gemini"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-014", "atoms": [{"t": "any", "of": [{"t": "planet_in_house", "p": "Ketu", "h": [5]}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Leo"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-015", "atoms": [{"t": "any", "of": [{"t": "planet_in_house", "p": "Ketu", "h": [6]}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Virgo"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-018", "atoms": [{"t": "any", "of": [{"t": "planet_in_house", "p": "Ketu", "h": [8]}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Scorpio"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-019", "atoms": [{"t": "planet_in_sign", "p": "Ketu", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-031", "atoms": [{"t": "any", "of": [{"t": "planet_in_house", "p": "Ketu", "h": [11]}, {"t": "planet_in_sign", "p": "Ketu", "sign": "Aquarius"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-042", "atoms": [{"t": "planet_in_sign", "p": "Venus", "sign": "Pisces"}, {"t": "conj", "p": "Venus", "q": "Jupiter"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "JV34-P2-043", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Jupiter", "sign": "Pisces"}, {"t": "planet_in_sign", "p": "Venus", "sign": "Pisces"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "LK04-P2-003", "atoms": [{"t": "lagna_sign", "sign": ["Pisces"]}, {"t": "planet_in_sign", "p": "Moon", "sign": "Scorpio"}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
+{"id": "LK06-P2-017", "atoms": [{"t": "any", "of": [{"t": "planet_in_sign", "p": "Rahu", "sign": "Gemini"}, {"t": "planet_in_sign", "p": "Rahu", "sign": "Sagittarius"}]}], "complete": true, "missing": "", "origin": "ai_v2_two_pass_agreed"}
